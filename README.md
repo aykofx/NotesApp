@@ -18,8 +18,8 @@ A simple JavaFX-based notes application with features like auto word/character c
 - Exit prompts to save if there are unsaved changes.
 
 **Requirements**
-Java 11 or newer
-JavaFX SDK
+- Java 11 or newer
+- JavaFX SDK
 
-*+Running the App**
-Compile and run your JavaFX application as usual. Make sure JavaFX libraries are properly linked.
+**Running the App**
+- Compile and run your JavaFX application as usual. Make sure JavaFX libraries are properly linked.
