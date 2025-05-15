@@ -1,4 +1,5 @@
 **JavaFX Notes App**
+
 A simple JavaFX-based notes application with features like auto word/character count, file drag & drop and quick save.
 
 **Features**
