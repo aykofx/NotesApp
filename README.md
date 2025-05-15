@@ -12,9 +12,7 @@ A simple JavaFX-based notes application with features like auto word/character c
 **How to Use**
 - Load a file using the load button or drag a .txt file into the text area.
 - Edit notes freely; word and character count updates live.
-- Save your changes using:
-Quick Save to save directly to the opened file, or
-Save As to save as a new file.
+- Save your changes using: Quick Save to save directly to the opened file, or Save As to save as a new file.
 - Create a new note clears the text area (with confirmation).
 - Exit prompts to save if there are unsaved changes.
 
